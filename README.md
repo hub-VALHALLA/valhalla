@@ -19,7 +19,8 @@ Simply remove the quotes and paste it inside of your terminal.
 Example:
 ![image](https://user-images.githubusercontent.com/132168937/235324509-8936aab7-ddc5-4566-8859-4651499ba809.png)
 
-Next, the script will load.
+Next, the script will load:
+
 ![image](https://user-images.githubusercontent.com/132168937/235324550-be49a0ec-f03a-4f0b-b462-507ef929c24d.png)
 
 ![image](https://user-images.githubusercontent.com/132168937/235324560-14d6c0ee-7023-4aeb-a206-e55eddff327f.png)
