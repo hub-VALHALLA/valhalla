@@ -14,3 +14,4 @@ You will see a key that looks like this:
 ![image](https://user-images.githubusercontent.com/132168937/235324438-c0322241-d1b5-4721-9460-a25f929eea34.png)
 
 Simply remove the quotes and paste it inside of your terminal.
+![image](https://user-images.githubusercontent.com/132168937/235324485-722fd029-8bd9-479a-8639-7ef605ccb91e.png)
