@@ -15,3 +15,4 @@ You will see a key that looks like this:
 
 Simply remove the quotes and paste it inside of your terminal.
 ![image](https://user-images.githubusercontent.com/132168937/235324485-722fd029-8bd9-479a-8639-7ef605ccb91e.png)
+![image](https://user-images.githubusercontent.com/132168937/235324509-8936aab7-ddc5-4566-8859-4651499ba809.png)
