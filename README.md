@@ -7,4 +7,5 @@ ___Example provided below___
 ## loadstring(game:HttpGet("LINK"))()
 You will be prompted to enter a key, to do so, simply join the discord: https://discord.gg/hB6m58kUMt
 After joining the discord, verify and proceed to the "key" channel.
+
 ![image](https://user-images.githubusercontent.com/132168937/235324408-4e6e836e-e29b-41b1-9b1e-7d1618c96e8d.png)
