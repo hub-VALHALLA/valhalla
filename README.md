@@ -20,7 +20,7 @@ After joining the discord, verify and proceed to the "key" channel.
 
 ![image](https://user-images.githubusercontent.com/132168937/235324509-8936aab7-ddc5-4566-8859-4651499ba809.png)
 
-###### Next, the script will load:
+##### Next, the script will load:
 
 ![image](https://user-images.githubusercontent.com/132168937/235324550-be49a0ec-f03a-4f0b-b462-507ef929c24d.png)
 
