@@ -12,3 +12,5 @@ After joining the discord, verify and proceed to the "key" channel.
 
 You will see a key that looks like this:
 ![image](https://user-images.githubusercontent.com/132168937/235324438-c0322241-d1b5-4721-9460-a25f929eea34.png)
+
+Simply remove the quotes and paste it inside of your terminal.
