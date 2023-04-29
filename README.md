@@ -3,7 +3,6 @@
 
 Booting the hub: Create a loadstring using this link: https://github.com/hub-VALHALLA/valhalla/blob/main/Hub?raw=true
 
-___Example provided below___
 ## loadstring(game:HttpGet("LINK"))()
 You will be prompted to enter a key, to do so, simply join the discord: https://discord.gg/hB6m58kUMt
 After joining the discord, verify and proceed to the "key" channel.
